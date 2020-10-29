@@ -1,0 +1,13 @@
+
+g
+java:S2259X"EA "NullPointerException" could be thrown; "product" is nullable here.(¦§ÒÀüÿÿÿÿ8ì’¶«Ö.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(”†ìşÿÿÿÿ8Ìºî¡Ö.
+T	java:S106c"9Replace this use of System.out or System.err by a logger.(šëˆj8šş«Ö.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ8×ƒøÃÖ.
+>
+java:S1643a"Use a StringBuilder instead.(šÆºúÿÿÿÿ8Ûºœ«Ö.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(öØÈ¢8Ìºî¡Ö.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(ößéØ8Ìºî¡Ö.
+k
+java:S11928"IDefine a constant instead of duplicating this literal "abs:href" 4 times.(¸·‰ùÿÿÿÿ8Ìºî¡Ö.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(şÅÂ½ûÿÿÿÿ8Ìºî¡Ö.

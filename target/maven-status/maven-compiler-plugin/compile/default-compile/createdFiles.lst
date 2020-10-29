@@ -1,0 +1,7 @@
+com\finology\crawler\configuration\SQLiteIdentityColumnSupport.class
+com\finology\crawler\configuration\SQLiteDialect.class
+com\finology\crawler\Application.class
+com\finology\crawler\repository\ProductRepository.class
+com\finology\crawler\model\Product.class
+com\finology\crawler\WebCrawler.class
+com\finology\crawler\model\Url.class
